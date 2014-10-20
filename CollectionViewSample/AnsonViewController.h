@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AnsonViewController : UIViewController
+@interface AnsonViewController : UICollectionViewController
 
 @end
